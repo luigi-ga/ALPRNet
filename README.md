@@ -20,12 +20,18 @@ cd ALPRNet
 pip install -r requirements.txt
 ```
 
-
 ## Usage
 
 1. Navigate to the `demo` folder and open the `demo.ipynb` notebook.
 2. Inside the notebook, you'll find examples of both training and usage procedures.
 3. For training, make sure you have a CSV file with the following header: `filename, label, split`. This CSV file should list the image filenames, corresponding labels, and data split information.
+
+## Pre-trained Model Weights
+
+You can download the pre-trained model weights for both motion-blurred and non-blurred images using the following links:
+
+- [Motion Blurred Weights](https://drive.google.com/file/d/1l2cATgS-tYy46JjUxSxP3n3KwAYLDSSk/view?usp=drive_link)
+- [Non-Blurred Weights](https://drive.google.com/file/d/1WZ44A4WIVaMwf2oIzQRXYK-wqsu1vPOo/view?usp=drive_link)
 
 ## Acknowledgments
 
