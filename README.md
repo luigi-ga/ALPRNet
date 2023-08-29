@@ -34,6 +34,6 @@ This project is adapted from the [aster.pytorch](https://github.com/ayumiymk/ast
 
 ---
 
-Feel free to reach out if you have any questions or suggestions. You can contact me at [gallo.1895146@studenti.uniroma1.it].
+Feel free to reach out if you have any questions or suggestions. You can contact me [here](mailto:gallo.1895146@studenti.uniroma1.it).
 
 
